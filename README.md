@@ -7,13 +7,14 @@ Here is how you install this mod, follow all steps and it's good !
 	1. First is to download the last version of the mod here : https://github.com/KandaSoranyan/AdvancedBotsLoadouts/releases
 	2. Drop the folder AdvancedBotsLoadouts in *user/mods*.
 	3. Add this code in the server.config.json in the "list" data.
-		```
-		{
-			"name": "AdvancedBotsLoadouts",
-			"version": "1.0",
-			"enabled": true
-		}
-		```
+	
+```json
+	{
+		"name": "AdvancedBotsLoadouts",
+		"version": "1.0",
+		"enabled": true
+	}
+```
 	4. Put rebuildCache & RebuildRoutes on true.
 	5. Restart the server.
 	6. Go into a raid.
