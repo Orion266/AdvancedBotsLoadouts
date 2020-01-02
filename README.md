@@ -31,7 +31,7 @@ So stay tuned about the mod ! and have fun using it ! :slight_smile:
 *Note:*
 You can send me other weapons presets if you wish ! For doing so, make your weapon preset in the in game editor, save it with this name : weaponName + PMC and send me over in PM the userbuild.json file located into /user/profile/id/
 
-##Installation Guide
+## Installation Guide
 Here is how you install this mod, follow all steps and it's good !
 
 	1. First is to download the last version of the mod here : https://github.com/KandaSoranyan/AdvancedBotsLoadouts/releases
@@ -51,7 +51,7 @@ Here is how you install this mod, follow all steps and it's good !
 	5. Restart the server.
 	6. Go into a raid.
 	
-##Troubleshoot
+## Troubleshoot
 Sometimes scavs spawnw without weapon wich make them to stand in a place without doing anything. If you encounter any, feel free to give me wich mags he got in his tactical vest to let me the possibility of investigate the weapon that cause this issue.
 
 Feel free to send me a DM on Discord if need helps #Sorata
