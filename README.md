@@ -47,9 +47,8 @@ Here is how you install this mod, follow all steps and it's good !
 }
 ```
 
-	4. Put rebuildCache & RebuildRoutes on true.
-	5. Restart the server.
-	6. Go into a raid.
+	4. Restart the server.
+	5. Go into a raid.
 	
 ## Troubleshoot
 Sometimes scavs spawnw without weapon wich make them to stand in a place without doing anything. If you encounter any, feel free to give me wich mags he got in his tactical vest to let me the possibility of investigate the weapon that cause this issue.
