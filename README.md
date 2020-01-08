@@ -53,6 +53,8 @@ Here is how you install this mod, follow all steps and it's good !
 ## Troubleshoot
 Sometimes scavs spawnw without weapon wich make them to stand in a place without doing anything. If you encounter any, feel free to give me wich mags he got in his tactical vest to let me the possibility of investigate the weapon that cause this issue.
 
+For PMC side, there's still a lot of them without weapons, as for now, i'm still investigating the issue and i'm working hard on it to fix it. Sorry for the inconvenience ! Stay tuned for updates ;)
+
 For now bot modding is not available yet, if you want to get the mod working, make a backup of your db/bots folder, and replace it with the new db/bots folder in the archive !
 
 Feel free to send me a DM on Discord if need helps #Sorata
