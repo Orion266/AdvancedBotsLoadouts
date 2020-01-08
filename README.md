@@ -42,7 +42,7 @@ Here is how you install this mod, follow all steps and it's good !
 {
 "name": "AdvancedBotsLoadouts",
 "author": "Sorata",
-"version": "1.0",
+"version": "1.0.5",
 "enabled": true
 }
 ```
@@ -52,5 +52,7 @@ Here is how you install this mod, follow all steps and it's good !
 	
 ## Troubleshoot
 Sometimes scavs spawnw without weapon wich make them to stand in a place without doing anything. If you encounter any, feel free to give me wich mags he got in his tactical vest to let me the possibility of investigate the weapon that cause this issue.
+
+For now bot modding is not available yet, if you want to get the mod working, make a backup of your db/bots folder, and replace it with the new db/bots folder in the archive !
 
 Feel free to send me a DM on Discord if need helps #Sorata
