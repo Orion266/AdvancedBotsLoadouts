@@ -42,7 +42,7 @@ Here is how you install this mod, follow all steps and it's good !
 {
 "name": "AdvancedBotsLoadouts",
 "author": "Sorata",
-"version": "1.0.5",
+"version": "1.0.6",
 "enabled": true
 }
 ```
